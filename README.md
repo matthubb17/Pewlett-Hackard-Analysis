@@ -24,5 +24,10 @@ The goal of this project was to help Pewlett Hackard, a company that has been ar
 
 ## Summary:
 
+  - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+    -  Looking at the [retiring_titles](https://github.com/matthubb17/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) csv there will be over 72,000 positions that will become available within the next couple of years.
+
+  - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    - No there is not enough retirement ready employees to participate in the mentorship program. When looking at the [mentorship_eligibility](https://github.com/matthubb17/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv) csv we can see that we only have over 1,500 employees that are eligable.
 
 
