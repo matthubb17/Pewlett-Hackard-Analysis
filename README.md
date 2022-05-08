@@ -30,4 +30,8 @@ The goal of this project was to help Pewlett Hackard, a company that has been ar
   - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     - No there is not enough retirement ready employees to participate in the mentorship program. When looking at the [mentorship_eligibility](https://github.com/matthubb17/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv) csv we can see that we only have over 1,500 employees that are eligable.
 
+- Recommended additional queries or tables:
+  - I would recommend that Pewlett Hackard dig a bit deeper into the retirement_titles chart that we created. One way that they could get some more information would be to include additional columns within the table such as adding the departments that the titles fall under for more clarity when assessing the postions.
+  - I would also recommend that the company consider what postions are the most important to their continued success. By adding a column that represents how senior a position is it will help the recruiting team to prioritize the most important positions.
+
 
